@@ -18,7 +18,7 @@ PDF Export Function:
 
 ![alt text](https://github.com/Leone717/PhoneBook/blob/master/PhoneBookPics/Phonebook4.png)
 
-The librariy of the program with generated PDF:
+The library of the program with generated PDF:
 
 ![alt text](https://github.com/Leone717/PhoneBook/blob/master/PhoneBookPics/Phonebook5.png)
 
